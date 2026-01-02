@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18135222.svg)](https://doi.org/10.5281/zenodo.18135222)
+
 # LOAD "": Why 48K still matters for digital humanities in 2026
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2774abee-442b-45ed-92e6-5aeaef0f6d8d" />
